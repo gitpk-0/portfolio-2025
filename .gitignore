@@ -23,5 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# User notes
+# User
 _NOTES.md
+.VSCodeCounter
