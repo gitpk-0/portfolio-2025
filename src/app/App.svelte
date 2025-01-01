@@ -4,7 +4,7 @@
 <main>
   <div></div>
 
-  <div class="card"></div>
+  <div class="card">Hello World</div>
 
   <p>
     Check out <a
