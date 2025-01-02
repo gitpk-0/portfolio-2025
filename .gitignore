@@ -23,6 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 
+# Tests
+test-results
+
 # User
 _NOTES.md
 .VSCodeCounter
+my_stuff
