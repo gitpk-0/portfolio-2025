@@ -1,4 +1,5 @@
 <script lang="ts">
+  import Button from "../shared/components/ui/Button.svelte";
 </script>
 
 <main>
@@ -13,6 +14,8 @@
       rel="noreferrer">SvelteKit</a
     >, the official Svelte app framework powered by Vite!
   </p>
+
+  <Button>Click Me</Button>
 </main>
 
 <style>
